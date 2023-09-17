@@ -1,4 +1,4 @@
-# Title (replace with your title)
+# Regex for Phone Number Identification
 
 A regular expression, often abbreviated as regex, is a string of characters that specifies a search pattern for text. Regex uses 'literal characters' to pinpoint specific characters or patterns you want to locate within a text.
 
